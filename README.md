@@ -11,7 +11,7 @@
 ----------------------------------------------------------
 
 
-Features
+<h1>Features</h1>
 - Add Task
 - View Tasks
 - Edit Task
