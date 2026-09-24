@@ -8,8 +8,10 @@
 **Course & Year: == BSIT & 2ND YEAR ==
 ----------------------------------------------------------
 **Database Used: == SQLITE ==
+----------------------------------------------------------
 
-## Features
+
+Features
 - Add Task
 - View Tasks
 - Edit Task
