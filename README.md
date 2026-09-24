@@ -1,9 +1,9 @@
 
 <h1>---REGISTRATION PAGE---</h1>
-<img width="300" height="300" alt="REGISTRATION" src="https://github.com/user-attachments/assets/9e043b29-b596-4e06-bad7-4690a6be9108" />
+<img width="200" height="200" alt="REGISTRATION" src="https://github.com/user-attachments/assets/9e043b29-b596-4e06-bad7-4690a6be9108" />
 
 <h1>---LOGIN PAGE---</h1>
-<img width="300" height="300" alt="LOGIN" src="https://github.com/user-attachments/assets/bfa44f39-bd73-4778-9ca9-2986047c1b90" />
+<img width="200" height="200" alt="LOGIN" src="https://github.com/user-attachments/assets/bfa44f39-bd73-4778-9ca9-2986047c1b90" />
 
 
 <h1>MY INFORMATION</h1>
