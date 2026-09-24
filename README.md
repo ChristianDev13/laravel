@@ -12,8 +12,8 @@
 
 
 <h1>Features</h1>
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
+- Add Task <br>
+- View Tasks <br>
+- Edit Task <br>
+- Delete Task <br>
 - Update Status
