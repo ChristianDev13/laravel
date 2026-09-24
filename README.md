@@ -1,4 +1,10 @@
 
+<h3>---ADDPRODUCT PAGE---</h3>
+<img width="300" height="300" alt="ADD PRODUCT PAGE" src="https://github.com/user-attachments/assets/eebacf3a-efec-458b-b513-e279a4c1d7e9" />
+
+<h3>---DASHBOARD PAGE---</h3>
+<img width="500" height="300" alt="DASHBOARD" src="https://github.com/user-attachments/assets/e4e8696c-d871-48ca-9b1f-dee6ba931412" />
+
 <h3>---REGISTRATION PAGE---</h3>
 <img width="200" height="200" alt="REGISTRATION" src="https://github.com/user-attachments/assets/9e043b29-b596-4e06-bad7-4690a6be9108" />
 
