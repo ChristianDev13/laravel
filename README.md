@@ -1,14 +1,8 @@
-<h1>***ADDPRODUCT PAGE***</h1>
-<img width="1906" height="933" alt="ADD PRODUCT PAGE" src="https://github.com/user-attachments/assets/c1750c89-0b13-4725-87e7-f8a78d56a92a" />
 
-<h1>***DASHBOARD PAGE***</h1>
-<img width="1917" height="938" alt="DASHBOARD" src="https://github.com/user-attachments/assets/251ca41b-efd0-41c6-8476-54d21609d8c4" />
-
-<h1>***REGISTRATION PAGE***</h1>
-<img width="1897" height="924" alt="REGISTRATION" src="https://github.com/user-attachments/assets/c256b267-a2cf-4686-8542-0941158219fb" />
 
 <h1>***LOGIN PAGE***</h1>
-<img width="1901" height="934" alt="LOGIN" src="https://github.com/user-attachments/assets/e88be5ed-64e8-4db9-9d6f-ef57d684af8e" />
+<img width="300" height="300" alt="LOGIN" src="https://github.com/user-attachments/assets/bfa44f39-bd73-4778-9ca9-2986047c1b90" />
+
 
 <h1>MY INFORMATION</h1>
 ----------------------------------------------------------<br>
